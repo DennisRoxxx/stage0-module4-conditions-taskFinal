@@ -2,12 +2,12 @@ package school.mjc.stage0.conditions.finalTask;
 
 public class BitwiseValuesSwap {
     public void swap(int first, int second) {
-        int temp;
-
-        temp = first;
+        
+        int temp = first;
         first = second;
         second = temp;
 
-        System.out.println(first + " " + second);
+        ystem.out.println(first);
+        System.out.println(second);
      }
 }
