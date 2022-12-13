@@ -8,7 +8,6 @@ public class BitwiseValuesSwap {
         first = second;
         second = temp;
 
-        System.out.println(first);
-        System.out.println(second);
-    }
+        System.out.println(first + " " + second);
+     }
 }
