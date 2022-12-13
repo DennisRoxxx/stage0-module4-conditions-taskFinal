@@ -7,7 +7,7 @@ public class BitwiseValuesSwap {
         first = second;
         second = temp;
 
-        ystem.out.println(first);
+        System.out.println(first);
         System.out.println(second);
      }
 }
